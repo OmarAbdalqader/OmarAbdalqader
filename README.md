@@ -1,5 +1,8 @@
-# 💫 About Me:
-Full Stack Developer with  years of experience in ASP.NET Core and modern frontend development<br>Skilled in building secure scalable applications real time systems and smart AI powered solutions<br>Focused on clean code performance and building interactive user experiences including 3D virtual worlds
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 ## 🌐 Socials:
