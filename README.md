@@ -11,7 +11,7 @@ Passionate about creating innovative solutions and transforming complex ideas in
 
 ## 📊 Real GitHub Statistics
 </div>
-<dive align="center">
+<div align="center">
 ##  **🌐 Socials:**</dive>
 <div align="center">
 
