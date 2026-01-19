@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Omar%20Abdalqader&fontAlign=50&fontAlignY=35&color=0:00C6FF,100:0072FF&fontColor=ffffff" width="100%" />
 </p>
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    style="width:100%; max-width:900px; height:240px; object-fit:cover; border-radius:18px;"
+  />
+</div>
 
 
 
