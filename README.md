@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Omar+AbdAlQader....;Nice+to+meet+you!&center=true&size=50">
   </a>
 </h1>
-
+<div align="center">
 ## 🚀 About Me
 **Software Developer | Problem Solver | Tech Enthusiast**  
 Passionate about creating innovative solutions and transforming complex ideas into simple, elegant code. Always eager to learn new technologies and contribute to meaningful projects.
 
 ## 📊 Real GitHub Statistics
-
+</div>
 <div align="center">
 
 <!-- GitHub Stats Cards -->
