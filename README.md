@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Omar+AbdAlQader....;Nice+to+meet+you!&center=true&size=30">
@@ -152,4 +152,4 @@ Passionate about creating innovative solutions and transforming complex ideas in
 
 *Last Updated: [Current Date]*  
 *✨ Profile powered by GitHub Stats and custom widgets*
-```
+
