@@ -5,14 +5,14 @@
   </a>
 </h1>
 <div align="center">
- 🚀 About Me
+##  🚀 About Me
 Software Developer | Problem Solver | Tech Enthusiast
 Passionate about creating innovative solutions and transforming complex ideas into simple, elegant code. Always eager to learn new technologies and contribute to meaningful projects.
 
-## 📊 Real GitHub Statistics**
+## 📊 Real GitHub Statistics
 </div>
 
- **🌐 Socials:**
+##  **🌐 Socials:**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/omar-abdelqader-0b0b40332)
