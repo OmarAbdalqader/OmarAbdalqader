@@ -1,25 +1,44 @@
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Omar%20Abdalqader&fontAlign=50&fontAlignY=35&color=0:00C6FF,100:0072FF&fontColor=ffffff" width="100%" />
+</p>
+
+
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Omar+AbdAlQader....;Nice+to+meet+you!&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Omar+AbdAlQader....;Software+Developer+|+Problem+Solver;Nice+to+meet+you!&center=true&size=30&duration=3000&color=58A6FF">
   </a>
 </h1>
-<div align="center">
-##  🚀 About Me
-Software Developer | Problem Solver | Tech Enthusiast
-Passionate about creating innovative solutions and transforming complex ideas into simple, elegant code. Always eager to learn new technologies and contribute to meaningful projects.
 
-## 📊 Real GitHub Statistics
+
+
+<div align="center">
+
+## 🚀 About Me
+
+**Software Developer | Problem Solver | Tech Enthusiast**
+
+Passionate about creating innovative solutions and transforming complex ideas into simple, elegant code. 
+Always eager to learn new technologies and contribute to meaningful projects.
+
 </div>
+
+---
+
 <div align="center">
-##  **🌐 Socials:**</dive>
-<div align="center">
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/omar-abdelqader-0b0b40332)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:omaralyazoribs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/OmarAbdalqader)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117)](#)
 
 </div>
+
+
 <div align="center">
 
 <!-- GitHub Stats Cards -->
