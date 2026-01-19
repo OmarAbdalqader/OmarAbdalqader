@@ -11,8 +11,8 @@ Passionate about creating innovative solutions and transforming complex ideas in
 
 ## 📊 Real GitHub Statistics
 </div>
-
-##  **🌐 Socials:**
+<dive align="center">
+##  **🌐 Socials:**</dive>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/omar-abdelqader-0b0b40332)
