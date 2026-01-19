@@ -5,14 +5,14 @@
   </a>
 </h1>
 <div align="center">
-## 🚀 About Me
-**Software Developer | Problem Solver | Tech Enthusiast**  
+ 🚀 About Me
+Software Developer | Problem Solver | Tech Enthusiast
 Passionate about creating innovative solutions and transforming complex ideas into simple, elegant code. Always eager to learn new technologies and contribute to meaningful projects.
 
 ## 📊 Real GitHub Statistics
 </div>
 
-## 🌐 Socials:
+ 🌐 Socials:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/omar-abdelqader-0b0b40332)
@@ -47,7 +47,7 @@ Passionate about creating innovative solutions and transforming complex ideas in
 
 </div>
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 ### **Programming Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)
@@ -66,7 +66,7 @@ Passionate about creating innovative solutions and transforming complex ideas in
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
-### **Databases:**
+ **Databases:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
