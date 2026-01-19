@@ -11,6 +11,15 @@ Passionate about creating innovative solutions and transforming complex ideas in
 
 ## 📊 Real GitHub Statistics
 </div>
+
+## 🌐 Socials:
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/omar-abdelqader-0b0b40332)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:omaralyazoribs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/OmarAbdalqader)
+
+</div>
 <div align="center">
 
 <!-- GitHub Stats Cards -->
@@ -24,10 +33,7 @@ Passionate about creating innovative solutions and transforming complex ideas in
   <img src="https://streak-stats.demolab.com?user=OmarAbdalqader&theme=shadow_green&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
 
-<!-- GitHub Trophy -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="[https://github-profile-trophy.vercel.app/?username=OmarAbdalqader&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15](https://github.com/jaywcjlove/github-action-contributors)" alt="GitHub Trophies" />
-</div>
+>
 
 <!-- GitHub Activity Graph -->
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -75,14 +81,6 @@ Passionate about creating innovative solutions and transforming complex ideas in
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&labelColor=0D1117)
 
-## 🌐 Socials:
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/omar-abdelqader-0b0b40332)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:omaralyazoribs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/OmarAbdalqader)
-
-</div>
 
 ## 📈 Recent GitHub Activity
 <!--START_SECTION:activity-->
