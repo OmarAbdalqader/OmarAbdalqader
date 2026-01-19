@@ -53,10 +53,6 @@ Always eager to learn new technologies and contribute to meaningful projects.
 </div>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,mysql,python,opencv,git,threejs&perline=6" />
 
-<!-- GitHub Streak Stats -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://streak-stats.demolab.com?user=OmarAbdalqader&theme=shadow_green&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</div>
 
 
 <!-- GitHub Activity Graph -->
