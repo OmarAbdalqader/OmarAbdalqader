@@ -1,5 +1,7 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=OmarAbdalqader&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <p align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Omar%20Abdalqader&fontAlign=50&fontAlignY=35&color=0:00C6FF,100:0072FF&fontColor=ffffff" width="100%" />
 </p>
 
@@ -41,10 +43,15 @@ Always eager to learn new technologies and contribute to meaningful projects.
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAbdalqader&show_icons=true&theme=shadow_green&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdalqader&layout=compact&theme=shadow_green&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 15px;">
+  
+   <img height="170"
+      src="https://img.shields.io/badge/Tech%20Stack-.NET%20%7C%20React%20%7C%20SQL%20%7C%20SignalR%20%7C%20AI%20%7C%203D-58A6FF?style=for-the-badge&labelColor=0D1117"
+      alt="Tech Stack" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarAbdalqader&repo=Shop_Project&theme=shadow_green&hide_border=true" /> -->
+
 </div>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,mysql,python,opencv,git,threejs&perline=6" />
 
 <!-- GitHub Streak Stats -->
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -57,10 +64,7 @@ Always eager to learn new technologies and contribute to meaningful projects.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAbdalqader&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&custom_title=Omar%27s%20GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
-<!-- GitHub Contributors Stats -->
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=OmarAbdalqader&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" alt="GitHub Contributors" />
-</div>
+
 
 </div>
 
@@ -83,7 +87,7 @@ Always eager to learn new technologies and contribute to meaningful projects.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
- **Databases:**
+ ### **Databases:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
@@ -99,26 +103,13 @@ Always eager to learn new technologies and contribute to meaningful projects.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&labelColor=0D1117)
 
 
-## 📈 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!-- This section will show real GitHub activity -->
-*Loading recent activity...*
-<!--END_SECTION:activity-->
 
 ## 🎯 What I'm Working On
 - 🔭 **Currently:** Developing web applications with Blazor and .NET
-- 🌱 **Learning:** Three.js and WebGL for 3D web applications
-- 👯 **Looking to:** Collaborate on open-source projects
+- 🌱 **Learning:** 3D web applications
 - 💬 **Ask me about:** Python, .NET, Web Development
 - 📫 **How to reach me:** omaralyazoribs@gmail.com
-
-## ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
+<!-- 
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -126,45 +117,28 @@ Always eager to learn new technologies and contribute to meaningful projects.
 | **Achievement** | **Progress** |
 |----------------|--------------|
 | **Repositories** | ![Repositories](https://img.shields.io/badge/20+-blue?style=flat-square) |
-| **Contributions** | ![Contributions](https://img.shields.io/badge/100+-green?style=flat-square) |
-| **Stars Earned** | ![Stars](https://img.shields.io/badge/50+-yellow?style=flat-square) |
+| **Contributions** | ![Contributions](https://img.shields.io/badge/40+-green?style=flat-square) |
+| **Stars Earned** | ![Stars](https://img.shields.io/badge/20+-yellow?style=flat-square) |
 | **Forks** | ![Forks](https://img.shields.io/badge/30+-orange?style=flat-square) |
 
 </div>
+---> 
 
+
+
+</div>
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<br />
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
-</div>
-
+<!-- 
 ## 🔝 Top Contributed Repo
 ![Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=OmarAbdalqader&repo=OmarAbdalqader&theme=shadow_green&hide_border=true)
-
+---> 
 ---
 
 <div align="center">
 
-## 🎮 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=OmarAbdalqader&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-### ⭐ **Feel free to star my repositories if you find them useful!**
-
-**Thanks for visiting my profile! Have a great day!** 😊
-
-</div>
-
----
-
-*Last Updated: [Current Date]*  
-*✨ Profile powered by GitHub Stats and custom widgets*
 
