@@ -26,7 +26,7 @@ Passionate about creating innovative solutions and transforming complex ideas in
 
 <!-- GitHub Trophy -->
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarAbdalqader&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=OmarAbdalqader&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15](https://github.com/jaywcjlove/github-action-contributors)" alt="GitHub Trophies" />
 </div>
 
 <!-- GitHub Activity Graph -->
